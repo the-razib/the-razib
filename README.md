@@ -15,8 +15,6 @@ i'm currently working on Flutter
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=md-razib11&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=md-razib11&icon=6&color=0)](https://visitcount.itsvg.in)
