@@ -2,7 +2,6 @@
 i'm currently working on Flutter
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the-razib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-razib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-razib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
