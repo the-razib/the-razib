@@ -1,70 +1,126 @@
-# Assalamu Alaikum, I'm Md Razib 
+# Assalamu Alaikum, I'm Md Razib
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+</p>
 
 Flutter Developer passionate about building clean, scalable, and cross-platform mobile applications.  
 I enjoy turning ideas into real-world apps with beautiful UI, real-time data, and smooth performance.
 
 ---
 
-## About Me  
-- Currently working as a **Flutter Developer** at [Softvence Agency](https://softvence.agency/)  
-- Learning and exploring **advanced Flutter, GetX, Firebase, and REST API integration**  
-- Looking to collaborate on **mobile apps** and **open-source Flutter projects**  
-- Ask me about **Flutter, Dart, Firebase, API Integration, and App Deployment**  
-- Fun fact: I love solving problems and bringing ideas to life through code
+## About Me
+
+```yaml
+Current Role: Flutter Developer @ Softvence Agency
+Focus: Advanced Flutter, GetX, Firebase & REST API Integration
+Interests: Mobile Apps & Open-Source Flutter Projects
+Expertise: Flutter, Dart, Firebase, API Integration & App Deployment
+Philosophy: Love solving problems and bringing ideas to life through code
+```
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-razib)  
+## Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/md-razib" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1CaAa8EtAMykQn3CZFU9WoXuV_GPdJAU_/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GetX](https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=api&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
-## 📱 Featured Projects  
-- [Task Manager](https://github.com/the-razib/task_manager) – Task management app with GetX  
-- [Mosque Finder](https://github.com/the-razib/mosque_finder) – Nearby mosque locator with Google Maps  
-- [DIU Result](https://github.com/the-razib/diu_results) – University result and CGPA calculator  
-- [Real Convert](https://play.google.com/store/apps/details?id=com.solank.currencyconverter) – Published cross-platform currency converter  
-- [Step Indicator Package](https://pub.dev/packages/step_indicator_package) – Flutter package with 250+ downloads  
-
-📄 [View My CV](https://drive.google.com/file/d/1CaAa8EtAMykQn3CZFU9WoXuV_GPdJAU_/view?usp=sharing)
-
----
-
-<div align="center">
+## Featured Projects
 
 <table>
-<tr>
-<td align="center" width="50%">
-  
-### 📈 GitHub Activity  
-![](https://nirzak-streak-stats.vercel.app/?user=the-razib&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api?username=the-razib&theme=radical&hide_border=false&include_all_commits=true)
-
-
-</td>
-<td align="center" width="50%">
-
-### 🧠 Most Used Languages  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-razib&theme=radical&hide_border=false&layout=compact)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Task Manager</h3>
+      <p align="center">
+        <a href="https://github.com/the-razib/task_manager" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">Task management app with GetX state management</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Mosque Finder</h3>
+      <p align="center">
+        <a href="https://github.com/the-razib/mosque_finder" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">Nearby mosque locator with Google Maps integration</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">DIU Result</h3>
+      <p align="center">
+        <a href="https://github.com/the-razib/diu_results" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">University result and CGPA calculator</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Real Convert</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.solank.currencyconverter" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </p>
+      <p align="center">Published cross-platform currency converter</p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center">
+  <a href="https://pub.dev/packages/step_indicator_package" target="_blank">
+    <img src="https://img.shields.io/badge/pub.dev-Step%20Indicator%20Package%20(250%2B%20downloads)-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Flutter Package"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=the-razib&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## GitHub Statistics
 
+<p align="center">
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=the-razib&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=the-razib&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/the-razib">the-razib</a></i>
+</p>
