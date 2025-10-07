@@ -121,6 +121,3 @@ Philosophy: Love solving problems and bringing ideas to life through code
   <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/the-razib">the-razib</a></i>
-</p>
