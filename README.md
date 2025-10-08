@@ -1,11 +1,19 @@
-# Assalamu Alaikum, I'm Md Razib
+<h1 align="center" style="font-size: 36px;">
+  Assalamu Alaikum, I'm <span style="color:#0AA5FF;">Md Razib</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0AA5FF&center=true&vCenter=true&width=550&lines=+Flutter+Developer;+Mobile+App+Enthusiast;+Clean+Code+Advocate" 
+    alt="Typing SVG" 
+  />
 </p>
 
-Flutter Developer passionate about building clean, scalable, and cross-platform mobile applications.  
-I enjoy turning ideas into real-world apps with beautiful UI, real-time data, and smooth performance.
+<p align="center" style="font-size: 18px;">
+  Flutter Developer passionate about building clean, scalable, and cross-platform mobile applications.  
+  I enjoy turning ideas into real-world apps with beautiful UI, real-time data, and smooth performance.
+</p>
+
 
 ---
 
