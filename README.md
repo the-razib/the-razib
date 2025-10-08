@@ -1,5 +1,8 @@
 <h1 align="center" style="font-size: 36px;">
   Assalamu Alaikum, I'm <span style="color:#0AA5FF;">Md Razib</span>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 </h1>
 
 <p align="center">
@@ -125,7 +128,5 @@ Philosophy: Love solving problems and bringing ideas to life through code
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
