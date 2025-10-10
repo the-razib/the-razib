@@ -30,8 +30,6 @@ Expertise: Flutter, Dart, Firebase, API Integration & App Deployment
 Philosophy: Love solving problems and bringing ideas to life through code
 ```
 
----
-
 ## Connect with Me
 
 <p align="left">
@@ -43,7 +41,6 @@ Philosophy: Love solving problems and bringing ideas to life through code
   </a>
 </p>
 
----
 
 ## Tech Stack
 
@@ -56,7 +53,6 @@ Philosophy: Love solving problems and bringing ideas to life through code
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
 
 ## Featured Projects
 
@@ -109,8 +105,6 @@ Philosophy: Love solving problems and bringing ideas to life through code
   </a>
 </p>
 
----
-
 ## GitHub Statistics
 
 <p align="center">
@@ -118,15 +112,13 @@ Philosophy: Love solving problems and bringing ideas to life through code
   
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-razib&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
----
+
 
 
 
