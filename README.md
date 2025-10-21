@@ -76,13 +76,42 @@ Philosophy: Love solving problems and bringing ideas to life through code
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Real Convert</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.solank.currencyconverter" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+        <a href="https://apps.apple.com/in/app/real-convert/id6748574890" target="_blank">
+          <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+        </a>
+      </p>
+      <p align="center">
+        Cross-platform currency converter built with Flutter & Dart, featuring real-time exchange rates, 5-year historical charts, and offline mode.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Crafty Bay</h3>
+      <p align="center">
+        <a href="https://github.com/the-razib/crafty_bay_ecommerce" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        Flutter-based e-commerce app with GetX, user authentication, API integration, and dynamic product management.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Task Manager</h3>
       <p align="center">
         <a href="https://github.com/the-razib/task_manager" target="_blank">
           <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </p>
-      <p align="center">Task management app with GetX state management</p>
+      <p align="center">
+        Task management app using GetX for state management, featuring user authentication, profile management, and CRUD task operations.
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">Mosque Finder</h3>
@@ -91,27 +120,33 @@ Philosophy: Love solving problems and bringing ideas to life through code
           <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </p>
-      <p align="center">Nearby mosque locator with Google Maps integration</p>
+      <p align="center">
+        Nearby mosque locator with Google Maps SDK & Places API integration — features location search, directions, and detailed info.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">DIU Result</h3>
+      <h3 align="center">Password Generator</h3>
       <p align="center">
-        <a href="https://github.com/the-razib/diu_results" target="_blank">
+        <a href="https://github.com/the-razib/password_generator" target="_blank">
           <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </p>
-      <p align="center">University result and CGPA calculator</p>
+      <p align="center">
+        Flutter app that creates secure passwords based on user-defined length and character settings, ensuring safety and randomness.
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">Real Convert</h3>
+      <h3 align="center">Daily Tools (Native)</h3>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.solank.currencyconverter" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        <a href="https://github.com/the-razib/daily_tools_2022" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-02569B?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </p>
-      <p align="center">Published cross-platform currency converter</p>
+      <p align="center">
+        Android (Java) app combining calculator, unit converter, personal notes, and Firebase-based authentication & data sync.
+      </p>
     </td>
   </tr>
 </table>
@@ -122,7 +157,6 @@ Philosophy: Love solving problems and bringing ideas to life through code
   </a>
 </p>
 
----
 
 ## GitHub Statistics
 
