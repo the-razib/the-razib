@@ -1,13 +1,13 @@
 <h1 align="center" style="font-size: 36px;">
   Assalamu Alaikum, I'm <span style="color:#0AA5FF;">Md Razib</span>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+    <img src="https://komarev.com/ghpvc/?username=the-razib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </p>
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0AA5FF&center=true&vCenter=true&width=550&lines=+Flutter+Developer;+Mobile+App+Enthusiast;+Clean+Code+Advocate" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0AA5FF&center=true&vCenter=true&width=550&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Advocate" 
     alt="Typing SVG" 
   />
 </p>
@@ -17,6 +17,19 @@
   I enjoy turning ideas into real-world apps with beautiful UI, real-time data, and smooth performance.
 </p>
 
+---
+
+## Portfolio
+
+<p align="center">
+  <a href="https://the-razib.github.io/personal_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore my personal portfolio to see my featured apps, open-source contributions, and design philosophy.
+</p>
 
 ---
 
@@ -30,9 +43,11 @@ Expertise: Flutter, Dart, Firebase, API Integration & App Deployment
 Philosophy: Love solving problems and bringing ideas to life through code
 ```
 
+---
+
 ## Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/md-razib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -41,10 +56,11 @@ Philosophy: Love solving problems and bringing ideas to life through code
   </a>
 </p>
 
+---
 
 ## Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
@@ -53,6 +69,7 @@ Philosophy: Love solving problems and bringing ideas to life through code
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+---
 
 ## Featured Projects
 
@@ -105,20 +122,18 @@ Philosophy: Love solving problems and bringing ideas to life through code
   </a>
 </p>
 
+---
+
 ## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=the-razib&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-  
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-razib&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
-
-
-
-
-
