@@ -52,9 +52,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
   <a href="https://linkedin.com/in/md-razib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mdrazib.cse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ 
   <a href="https://cdn.jsdelivr.net/gh/the-razib/personal_profile/cv/Md-Razib-CV-16-09-25.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
