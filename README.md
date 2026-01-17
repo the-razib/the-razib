@@ -85,7 +85,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
         <strong>Role:</strong> Project Lead & Flutter Developer
       </p>
       <p align="center">
-        <a href="https://apps.apple.com/app/barbell-ai" target="_blank">
+        <a href="https://apps.apple.com/us/app/barbell-ai/id6751478434" target="_blank">
           <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
         </a>
       </p>
@@ -99,7 +99,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
         <strong>Role:</strong> Primary Flutter Developer
       </p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.qanun" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.qanun.app&hl=en" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
         </a>
       </p>
@@ -132,7 +132,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
         <strong>Role:</strong> Quran Module Owner
       </p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.deepquran" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.deepquran.app" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
         </a>
       </p>
