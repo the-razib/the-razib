@@ -22,7 +22,7 @@
 ## Portfolio
 
 <p align="center">
-  <a href="https://the-razib.github.io/personal_profile/" target="_blank">
+  <a href="https://mdrazib.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
